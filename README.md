@@ -23,7 +23,7 @@ The presentation focused on New York City, but could be adapted to other cities 
 
 ### Deployed Tableau Analysis
 
-https://public.tableau.com/app/profile/hosseindbr/viz/NYCCityBikeAnalysis_16650711788590/Story1?publish=yes
+[link to dashboard](https://public.tableau.com/app/profile/hosseindbr/viz/NYCCityBikeAnalysis_16650711788590/Story1?publish=yes "link to dashboard")
 
 ### Summary of Results
 
