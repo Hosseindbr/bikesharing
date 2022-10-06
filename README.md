@@ -47,6 +47,25 @@ https://public.tableau.com/app/profile/hosseindbr/viz/NYCCityBikeAnalysis_166507
 
 <img width="798" alt="Screen Shot 2022-10-06 at 2 54 33 PM" src="https://user-images.githubusercontent.com/108313440/194395706-c0b488ac-254c-4c6d-b9e0-d6025abb070b.png">
 
+* Most trips were taken on weekday  around 7-9 a.m. and  5-7 PM.
+* These trips were mainly  taken  by male users.
+
+<img width="738" alt="Screen Shot 2022-10-06 at 2 57 44 PM" src="https://user-images.githubusercontent.com/108313440/194396137-5d3eee1c-186d-4d41-b93a-30bdb8de5a46.png">
+
+## Conclusion
+
+* According to the data, bike sharing services in New York were extremely busy in August 2019.
+* The data shows that the bikes are mainly used by male subscriber during weekdays.
+* Similar trend was oserved for the female users. 
+* In contrast, unsubscribed users, seemed to be tourists, mostly used the bikeriding service during weekends.
+
+<img width="581" alt="Screen Shot 2022-10-06 at 3 00 45 PM" src="https://user-images.githubusercontent.com/108313440/194396734-c7e00e5d-b5ce-44ea-8dae-e1d6f82cce7a.png">
+
+## Future Analysis
+It would be helpful to conduct additional analysis:
+* Identifying trends across the year by comparing data for different months.
+* Including weather data to determine whether there is a correlation between riding and the weather.
+
 
 
 
