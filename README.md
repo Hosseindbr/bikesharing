@@ -45,7 +45,7 @@ https://public.tableau.com/app/profile/hosseindbr/viz/NYCCityBikeAnalysis_166507
 * The maximum trip duration is 6 minutes for feamale, while it is 5 minutes for men.
 * The unkown group,  mainly tourists, tend to keep the bikes for longer period of time.
 
-<img width="733" alt="Screen Shot 2022-10-06 at 2 52 35 PM" src="https://user-images.githubusercontent.com/108313440/194395115-c5f423b2-1049-472b-aadb-39fd32bc817a.png">
+<img width="798" alt="Screen Shot 2022-10-06 at 2 54 33 PM" src="https://user-images.githubusercontent.com/108313440/194395706-c0b488ac-254c-4c6d-b9e0-d6025abb070b.png">
 
 
 
